@@ -1,0 +1,16 @@
+{
+    "name": "Maxdetect_RHT03",
+    "version": "1.0.0",
+    "keywords": "Maxdetect_RHT03,RTH03",
+    "description": "Maxdetect RHT03(类似DHT22或者AM2302的温湿度传感器)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Maxdetect_RHT03.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

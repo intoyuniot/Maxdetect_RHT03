@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Maxdetect_RHT03  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+getTemperature  KEYWORD2
+getHumidity  KEYWORD2
+update  KEYWORD2
+handleInterrupt  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
